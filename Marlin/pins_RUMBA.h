@@ -63,26 +63,32 @@
 #define X_STEP_PIN         17
 #define X_DIR_PIN          16
 #define X_ENABLE_PIN       48
+#define X_CS_PIN           30
 
 #define Y_STEP_PIN         54
 #define Y_DIR_PIN          47
 #define Y_ENABLE_PIN       55
+#define Y_CS_PIN           14
 
 #define Z_STEP_PIN         57
 #define Z_DIR_PIN          56
 #define Z_ENABLE_PIN       62
+#define Z_CS_PIN           21
 
 #define E0_STEP_PIN        23
 #define E0_DIR_PIN         22
 #define E0_ENABLE_PIN      24
+#define E0_CS_PIN          31
 
 #define E1_STEP_PIN        26
 #define E1_DIR_PIN         25
 #define E1_ENABLE_PIN      27
+#define E1_CS_PIN          15
 
 #define E2_STEP_PIN        29
 #define E2_DIR_PIN         28
 #define E2_ENABLE_PIN      39
+#define E2_CS_PIN          20
 
 //
 // Temperature Sensors
