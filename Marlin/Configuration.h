@@ -608,14 +608,14 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 4040, 500 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 404, 500 }
 
 /**
  * Default Max Feed Rate (mm/s)
  * Override with M203
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
-#define DEFAULT_MAX_FEEDRATE          { 150, 150, 1.7, 45 }
+#define DEFAULT_MAX_FEEDRATE          { 150, 150, 17, 45 }
 
 /**
  * Default Max Acceleration (change/s) change = mm/s
@@ -1150,7 +1150,7 @@
 
 // Homing speeds (mm/m)
 #define HOMING_FEEDRATE_XY (50*60)
-#define HOMING_FEEDRATE_Z  (100)
+#define HOMING_FEEDRATE_Z  (1000)
 
 // @section calibrate
 
