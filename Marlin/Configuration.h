@@ -554,7 +554,7 @@
 #define Y_DRIVER_TYPE  TMC2130
 #define Z_DRIVER_TYPE  TMC2130
 //#define X2_DRIVER_TYPE TMC2130
-//#define Y2_DRIVER_TYPE TMC2130
+#define Y2_DRIVER_TYPE TMC2130
 //#define Z2_DRIVER_TYPE TMC2130
 #define E0_DRIVER_TYPE TMC2130
 #define E1_DRIVER_TYPE TMC2130
@@ -615,7 +615,7 @@
  * Override with M203
  *                                      X, Y, Z, E0 [, E1[, E2[, E3[, E4]]]]
  */
-#define DEFAULT_MAX_FEEDRATE          { 300, 300, 1.7, 25 }
+#define DEFAULT_MAX_FEEDRATE          { 150, 150, 1.7, 45 }
 
 /**
  * Default Max Acceleration (change/s) change = mm/s
@@ -849,7 +849,7 @@
 
 // Invert the stepper direction. Change (or reverse the motor connector) if an axis goes the wrong way.
 #define INVERT_X_DIR false
-#define INVERT_Y_DIR true
+#define INVERT_Y_DIR false
 #define INVERT_Z_DIR false
 
 // @section extruder
