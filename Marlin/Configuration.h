@@ -781,7 +781,7 @@
 #define Z_PROBE_OFFSET_FROM_EXTRUDER -3   // Z offset: -below +above  [the nozzle]
 
 // Certain types of probes need to stay away from edges
-#define MIN_PROBE_EDGE 50
+#define MIN_PROBE_EDGE 25
 
 // X and Y axis travel speed (mm/m) between probes
 #define XY_PROBE_SPEED 8000
@@ -1020,7 +1020,7 @@
 #if ENABLED(AUTO_BED_LEVELING_LINEAR) || ENABLED(AUTO_BED_LEVELING_BILINEAR)
 
   // Set the number of grid points per dimension.
-  #define GRID_MAX_POINTS_X 3
+  #define GRID_MAX_POINTS_X 5
   #define GRID_MAX_POINTS_Y GRID_MAX_POINTS_X
 
   // Set the boundaries for probing (where the probe can reach).
