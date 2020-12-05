@@ -1,1 +1,455 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"par",
+				"parking_logo"
+			],
+			[
+				"roun",
+				"roundedBox"
+			],
+			[
+				"bo",
+				"box_top_d"
+			],
+			[
+				"top",
+				"box_top_d"
+			],
+			[
+				"po",
+				"point_arrow"
+			],
+			[
+				"poi",
+				"pointarrow_h"
+			],
+			[
+				"cut",
+				"cutout_polygon"
+			],
+			[
+				"cou",
+				"cutout_h"
+			],
+			[
+				"cu",
+				"cutout_h"
+			],
+			[
+				"d",
+				"d_tolerance"
+			],
+			[
+				"lock",
+				"lock_square"
+			],
+			[
+				"whe",
+				"wheel_sign_d"
+			],
+			[
+				"box",
+				"box_bottom_d"
+			],
+			[
+				"line",
+				"line_small_w"
+			],
+			[
+				"num",
+				"num_teeth"
+			],
+			[
+				"mh",
+				"mh_out_dia"
+			],
+			[
+				"tpe",
+				"tpe_press_z"
+			],
+			[
+				"zsi",
+				"lid_cover_zsize1"
+			],
+			[
+				"li",
+				"lid_cover_zsize1"
+			],
+			[
+				"zs",
+				"lid_cover_zsize1"
+			],
+			[
+				"lid",
+				"lid_switch_y"
+			],
+			[
+				"uv",
+				"uvp_w"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Marlin/Configuration.h",
+			"settings":
+			{
+				"buffer_size": 90114,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "PlatformIO",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"PlatformIO",
+					""
+				],
+				[
+					"PlatformIO",
+					"Build"
+				],
+				[
+					"PlatformIO",
+					"Upload"
+				],
+				[
+					"PlatformIO",
+					"Clean"
+				],
+				[
+					"PlatformIO",
+					"Test"
+				],
+				[
+					"PlatformIO",
+					"Upload using Programmer"
+				],
+				[
+					"PlatformIO",
+					"Upload SPIFFS image"
+				],
+				[
+					"PlatformIO",
+					"Update platforms and libraries"
+				],
+				[
+					"PlatformIO",
+					"Upgrade PlatformIO Core"
+				]
+			],
+			[
+				"PlatformIO",
+				"Build"
+			]
+		]
+	],
+	"build_varint": "Build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"comp",
+				"Deviot: Compile"
+			],
+			[
+				"compi",
+				"Deviot: Compile"
+			],
+			[
+				"board",
+				"Deviot: Select Board"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Deviot: Compile"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/spm/Documents/projects/Marlin",
+		"/home/spm/Documents/projects/Marlin/Marlin"
+	],
+	"file_history":
+	[
+		"/home/spm/Documents/projects/Marlin/platformio.ini",
+		"/home/spm/Downloads/reader_bottom_DE.gcode",
+		"/home/spm/Downloads/nfcreader_top.gcode",
+		"/home/spm/Downloads/rpi_box_top.gcode",
+		"/home/spm/Downloads/nfcreader_top_2.gcode",
+		"/home/spm/Downloads/downloadProjectFile",
+		"/home/spm/Documents/openscad/parking_disc/parking_disc.scad",
+		"/home/spm/Documents/openscad/parking_disc/pd_wheel.scad",
+		"/home/spm/Documents/openscad/parking_disc/cogwheel.scad",
+		"/home/spm/Documents/openscad/parking_disc/pd_base.scad",
+		"/home/spm/Documents/openscad/parking_disc/parameters.scad",
+		"/home/spm/Downloads/ocns_vymena_pokyny",
+		"/home/spm/Documents/openscad/parking_disc/readme.md",
+		"/home/spm/Documents/projects/Marlin/Marlin/Configuration_adv.h",
+		"/home/spm/Downloads/RebeliX_Box Dual.fff",
+		"/home/spm/Downloads/RebeliX_Box Dual_2.fff",
+		"/home/spm/Downloads/me_test_v4.gcode",
+		"/home/spm/Documents/projects/Marlin/Marlin/Configuration.h",
+		"/home/spm/Downloads/me_test_v3.gcode",
+		"/home/spm/Downloads/me_test_v2.gcode",
+		"/home/spm/Downloads/me_test_v1.gcode",
+		"/home/spm/Downloads/pdbase.gcode",
+		"/home/spm/Downloads/LeftTop_fillamentum.gcode",
+		"/home/spm/Downloads/LeftBottom_fillamentum.gcode",
+		"/home/spm/Downloads/RightBottom_fillamentum.gcode",
+		"/home/spm/Downloads/RightPlate_fillamentum.gcode",
+		"/home/spm/Downloads/LeftPlate_fillamentum.gcode",
+		"/home/spm/Downloads/RightTop_fillamentum.gcode",
+		"/home/spm/Documents/openscad/parking_disc/roundedcube.scad",
+		"/tmp/mozilla_spm0/sw-access-1.txt",
+		"/tmp/mozilla_spm0/sw-access-5.txt",
+		"/tmp/mozilla_spm0/sw-access-6.txt",
+		"/tmp/mozilla_spm0/sw-access-7-1.txt",
+		"/tmp/mozilla_spm0/sw-core-1.txt",
+		"/home/spm/Downloads/atia_change_pw.txt",
+		"/home/spm/qmk_firmware/keyboards/ergodox_ez/keymaps/spm/keymap.c",
+		"/tmp/mozilla_spm0/sw-access-7-2.txt",
+		"/home/spm/Downloads/atia_change_pw",
+		"/home/spm/Documents/projects/qmk_firmware/qmk_firmware/keyboards/ergodox_ez/keymaps/spm/keymap.c",
+		"/home/spm/Downloads/bad_counters_freetel.txt",
+		"/home/spm/Downloads/Retraction_gembird_03-07_T1.gcode",
+		"/home/spm/Documents/projects/uv-exposure-unit/box_model/lid.scad"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Marlin/Configuration.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 90114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47633,
+								47633
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 18166.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 457.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "PlatformIO",
+	"project": "platformio.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
