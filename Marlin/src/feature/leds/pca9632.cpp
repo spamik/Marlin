@@ -78,7 +78,7 @@
 #define LED_ON    0x01
 #define LED_PWM   0x02
 
-#define PCA9632_ADDRESS 0b01100000
+#define PCA9632_ADDRESS 0b01100010
 
 byte PCA_init = 0;
 
