@@ -2325,6 +2325,7 @@
 // use 4th channel in PCA9632 for white LED
 #if ENABLED(PCA9632)
   #define PCA9632_RGBW
+  #define PCA9632_ADDRESS 0b01100010
 #endif
 
 // Support for PCA9533 PWM LED driver
